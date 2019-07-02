@@ -2,7 +2,7 @@
 
 echo "Enter a number"
 read num
-
+# get the input from the user
 fact=1
 
 while [ $num -gt 1 ]
